@@ -35,7 +35,11 @@
     "versionFirst": "4.10.15",
     "siteFonts": [],
     "uniqCompNum": 20,
-    "versionPublish": "4.10.15"
+    "versionPublish": "4.10.15",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<script src=\"//code.jivosite.com/widget.js\" data-jv-id=\"xlxhtkGPYj\" async></script>\r\n",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
