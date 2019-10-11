@@ -38,7 +38,7 @@
     "versionPublish": "4.10.15",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<meta name=\"yandex-verification\" content=\"287db86a5c717b2b\" />\r\n\r\n<script src=\"//code.jivosite.com/widget.js\" data-jv-id=\"xlxhtkGPYj\" async></script>\r\n\r\n",
+    "google-analytics": "<meta name=\"yandex-verification\" content=\"287db86a5c717b2b\" />\r\n<script src=\"//code.jivosite.com/widget.js\" data-jv-id=\"xlxhtkGPYj\" async></script>\r\n\r\n",
     "siteUrl": "undefined",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
